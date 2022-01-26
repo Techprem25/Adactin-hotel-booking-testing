@@ -97,6 +97,8 @@ public class Account_creating {
 		
 		WebElement book = driver.findElement(By.name("book_now"));
 		book.click();
+		
+		
 	}
 
 }
